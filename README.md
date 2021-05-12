@@ -14,6 +14,8 @@ For example:
 
             //static char[][] UDSliceMove = new char[N_SLICE][N_MOVES];
             
+            public static char[][] UDSliceMove = new char[N_SLICE][];
+            
             for (int i = 0; i < N_SLICE; i++)
             
             {
